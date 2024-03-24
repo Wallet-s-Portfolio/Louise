@@ -1,0 +1,18 @@
+html {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: #fff9ee;
+}
+a {
+  width: 139px;
+  left: 185px;
+  top: 0px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  font-family: Judson;
+  font-weight: 400;
+  word-wrap: break-word;
+}
